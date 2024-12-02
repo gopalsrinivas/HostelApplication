@@ -1,0 +1,228 @@
+ERROR 2024-12-02 21:04:32 app.core.logging This is an error message
+ERROR 2024-12-02 21:04:40 app.core.logging This is an error message
+ERROR 2024-12-02 21:04:43 app.core.logging This is an error message
+ERROR 2024-12-02 21:04:46 app.core.logging This is an error message
+ERROR 2024-12-02 21:04:51 app.core.logging This is an error message
+ERROR 2024-12-02 21:06:48 app.core.logging This is an error message
+ERROR 2024-12-02 21:07:28 app.core.logging This is an error message
+ERROR 2024-12-02 21:09:05 app.core.logging This is an error message
+ERROR 2024-12-02 21:09:09 app.core.logging This is an error message
+ERROR 2024-12-02 21:09:35 app.core.logging This is an error message
+ERROR 2024-12-02 21:09:38 app.core.logging This is an error message
+ERROR 2024-12-02 21:09:46 app.core.logging This is an error message
+ERROR 2024-12-02 21:22:27 app.core.logging This is an error message
+ERROR 2024-12-02 21:23:43 app.core.logging This is an error message
+ERROR 2024-12-02 21:23:43 root Error connecting to the database: Not an executable object: 'SELECT 1'
+ERROR 2024-12-02 21:23:49 app.core.logging This is an error message
+ERROR 2024-12-02 21:23:50 root Error connecting to the database: Not an executable object: 'SELECT 1'
+ERROR 2024-12-02 21:27:39 app.core.logging This is an error message
+ERROR 2024-12-02 21:27:39 root Error connecting to the database: Not an executable object: 'SELECT 1'
+ERROR 2024-12-02 21:29:54 app.core.logging This is an error message
+ERROR 2024-12-02 21:29:54 root Error connecting to the database: Not an executable object: 'SELECT 1'
+ERROR 2024-12-02 21:29:59 app.core.logging This is an error message
+ERROR 2024-12-02 21:29:59 root Error connecting to the database: Not an executable object: 'SELECT 1'
+ERROR 2024-12-02 21:32:35 app.core.logging This is an error message
+ERROR 2024-12-02 21:32:54 app.core.logging This is an error message
+ERROR 2024-12-02 21:36:31 app.core.logging This is an error message
+ERROR 2024-12-02 21:37:11 app.core.logging This is an error message
+ERROR 2024-12-02 21:37:41 app.core.logging This is an error message
+ERROR 2024-12-02 21:37:57 app.core.logging This is an error message
+ERROR 2024-12-02 21:38:08 app.core.logging This is an error message
+ERROR 2024-12-02 21:38:34 app.core.logging This is an error message
+ERROR 2024-12-02 21:38:47 app.core.logging This is an error message
+ERROR 2024-12-02 21:39:07 app.core.logging This is an error message
+ERROR 2024-12-02 21:39:13 app.core.logging This is an error message
+ERROR 2024-12-02 21:39:19 app.core.logging This is an error message
+ERROR 2024-12-02 21:39:42 app.core.logging This is an error message
+ERROR 2024-12-02 21:40:30 app.core.logging This is an error message
+ERROR 2024-12-02 21:41:35 app.core.logging This is an error message
+ERROR 2024-12-02 21:46:36 app.core.logging This is an error message
+ERROR 2024-12-02 21:47:59 app.core.logging This is an error message
+ERROR 2024-12-02 21:51:32 app.core.logging This is an error message
+ERROR 2024-12-02 21:51:39 app.core.logging This is an error message
+ERROR 2024-12-02 21:52:16 app.core.logging This is an error message
+ERROR 2024-12-02 21:56:16 app.core.logging This is an error message
+ERROR 2024-12-02 22:03:05 app.core.logging This is an error message
+ERROR 2024-12-02 22:03:08 app.core.logging This is an error message
+ERROR 2024-12-02 22:03:35 app.core.logging This is an error message
+ERROR 2024-12-02 22:04:13 app.core.logging This is an error message
+ERROR 2024-12-02 22:05:03 app.core.logging This is an error message
+ERROR 2024-12-02 22:11:24 app.core.logging This is an error message
+ERROR 2024-12-02 22:11:44 app.core.logging This is an error message
+ERROR 2024-12-02 22:12:28 app.core.logging This is an error message
+ERROR 2024-12-02 22:13:54 app.core.logging This is an error message
+ERROR 2024-12-02 22:37:36 app.core.logging This is an error message
+ERROR 2024-12-02 22:41:40 app.core.logging This is an error message
+ERROR 2024-12-02 22:41:46 app.core.logging This is an error message
+ERROR 2024-12-02 22:42:04 app.core.logging This is an error message
+ERROR 2024-12-02 22:42:09 app.core.logging This is an error message
+ERROR 2024-12-02 22:54:03 app.core.logging This is an error message
+ERROR 2024-12-02 22:54:07 app.core.logging This is an error message
+ERROR 2024-12-02 22:56:51 app.core.logging This is an error message
+ERROR 2024-12-02 22:57:02 app.core.logging This is an error message
+ERROR 2024-12-02 22:59:49 app.core.logging This is an error message
+ERROR 2024-12-02 23:00:25 app.core.logging This is an error message
+ERROR 2024-12-02 23:01:11 app.core.logging This is an error message
+ERROR 2024-12-02 23:01:16 app.core.logging This is an error message
+ERROR 2024-12-02 23:02:45 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001871EF668A0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:02:45 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001871EF668A0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:02:48 app.core.logging This is an error message
+ERROR 2024-12-02 23:03:07 app.core.logging This is an error message
+ERROR 2024-12-02 23:03:16 app.core.logging This is an error message
+ERROR 2024-12-02 23:04:54 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000023F40DB27B0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:04:54 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000023F40DB27B0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:04:59 app.core.logging This is an error message
+ERROR 2024-12-02 23:05:14 app.core.logging This is an error message
+ERROR 2024-12-02 23:05:18 app.core.logging This is an error message
+ERROR 2024-12-02 23:12:59 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x00000243B7C868A0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:12:59 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x00000243B7C868A0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:13:04 app.core.logging This is an error message
+ERROR 2024-12-02 23:13:18 app.core.logging This is an error message
+ERROR 2024-12-02 23:31:09 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000027285ECAE40>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:31:09 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000027285ECAE40>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:31:13 app.core.logging This is an error message
+ERROR 2024-12-02 23:31:18 app.core.logging This is an error message
+ERROR 2024-12-02 23:31:24 app.core.logging This is an error message
+ERROR 2024-12-02 23:33:48 app.core.logging This is an error message
+ERROR 2024-12-02 23:33:54 app.core.logging This is an error message
+ERROR 2024-12-02 23:35:22 app.core.logging This is an error message
+ERROR 2024-12-02 23:41:20 app.core.logging This is an error message
+ERROR 2024-12-02 23:41:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001C1EE48AE40>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:41:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001C1EE48AE40>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:41:25 app.core.logging This is an error message
+ERROR 2024-12-02 23:41:32 app.core.logging This is an error message
+ERROR 2024-12-02 23:42:44 app.core.logging This is an error message
+ERROR 2024-12-02 23:42:53 app.core.logging This is an error message
+ERROR 2024-12-02 23:43:00 app.core.logging This is an error message
+ERROR 2024-12-02 23:47:01 app.core.logging This is an error message
+ERROR 2024-12-02 23:50:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000020FA090ED50>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:50:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000020FA090ED50>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+ERROR 2024-12-02 23:50:30 app.core.logging This is an error message
+ERROR 2024-12-02 23:50:36 app.core.logging This is an error message
+ERROR 2024-12-02 23:50:44 app.core.logging This is an error message

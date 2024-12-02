@@ -1,0 +1,1272 @@
+DEBUG 2024-12-02 21:04:32 app.core.logging This is a debug message
+ERROR 2024-12-02 21:04:32 app.core.logging This is an error message
+DEBUG 2024-12-02 21:04:40 app.core.logging This is a debug message
+ERROR 2024-12-02 21:04:40 app.core.logging This is an error message
+DEBUG 2024-12-02 21:04:43 app.core.logging This is a debug message
+ERROR 2024-12-02 21:04:43 app.core.logging This is an error message
+DEBUG 2024-12-02 21:04:46 app.core.logging This is a debug message
+ERROR 2024-12-02 21:04:46 app.core.logging This is an error message
+DEBUG 2024-12-02 21:04:51 app.core.logging This is a debug message
+ERROR 2024-12-02 21:04:51 app.core.logging This is an error message
+DEBUG 2024-12-02 21:06:48 app.core.logging This is a debug message
+ERROR 2024-12-02 21:06:48 app.core.logging This is an error message
+DEBUG 2024-12-02 21:07:28 app.core.logging This is a debug message
+ERROR 2024-12-02 21:07:28 app.core.logging This is an error message
+DEBUG 2024-12-02 21:09:05 app.core.logging This is a debug message
+ERROR 2024-12-02 21:09:05 app.core.logging This is an error message
+DEBUG 2024-12-02 21:09:09 app.core.logging This is a debug message
+ERROR 2024-12-02 21:09:09 app.core.logging This is an error message
+DEBUG 2024-12-02 21:09:35 app.core.logging This is a debug message
+ERROR 2024-12-02 21:09:35 app.core.logging This is an error message
+DEBUG 2024-12-02 21:09:38 app.core.logging This is a debug message
+ERROR 2024-12-02 21:09:38 app.core.logging This is an error message
+DEBUG 2024-12-02 21:09:46 app.core.logging This is a debug message
+ERROR 2024-12-02 21:09:46 app.core.logging This is an error message
+DEBUG 2024-12-02 21:22:27 app.core.logging This is a debug message
+ERROR 2024-12-02 21:22:27 app.core.logging This is an error message
+DEBUG 2024-12-02 21:23:43 app.core.logging This is a debug message
+ERROR 2024-12-02 21:23:43 app.core.logging This is an error message
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:23:43 sqlalchemy.engine.Engine [raw sql] ()
+ERROR 2024-12-02 21:23:43 root Error connecting to the database: Not an executable object: 'SELECT 1'
+DEBUG 2024-12-02 21:23:49 app.core.logging This is a debug message
+ERROR 2024-12-02 21:23:49 app.core.logging This is an error message
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:23:50 sqlalchemy.engine.Engine [raw sql] ()
+ERROR 2024-12-02 21:23:50 root Error connecting to the database: Not an executable object: 'SELECT 1'
+DEBUG 2024-12-02 21:27:39 app.core.logging This is a debug message
+ERROR 2024-12-02 21:27:39 app.core.logging This is an error message
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:27:39 sqlalchemy.engine.Engine [raw sql] ()
+ERROR 2024-12-02 21:27:39 root Error connecting to the database: Not an executable object: 'SELECT 1'
+DEBUG 2024-12-02 21:29:54 app.core.logging This is a debug message
+ERROR 2024-12-02 21:29:54 app.core.logging This is an error message
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:29:54 sqlalchemy.engine.Engine [raw sql] ()
+ERROR 2024-12-02 21:29:54 root Error connecting to the database: Not an executable object: 'SELECT 1'
+DEBUG 2024-12-02 21:29:59 app.core.logging This is a debug message
+ERROR 2024-12-02 21:29:59 app.core.logging This is an error message
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:29:59 sqlalchemy.engine.Engine [raw sql] ()
+ERROR 2024-12-02 21:29:59 root Error connecting to the database: Not an executable object: 'SELECT 1'
+DEBUG 2024-12-02 21:32:35 app.core.logging This is a debug message
+ERROR 2024-12-02 21:32:35 app.core.logging This is an error message
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine SELECT 1
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine [generated in 0.00186s] ()
+INFO 2024-12-02 21:32:36 root Database connection established successfully.
+INFO 2024-12-02 21:32:36 sqlalchemy.engine.Engine ROLLBACK
+DEBUG 2024-12-02 21:32:54 app.core.logging This is a debug message
+ERROR 2024-12-02 21:32:54 app.core.logging This is an error message
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine SELECT 1
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine [generated in 0.00268s] ()
+INFO 2024-12-02 21:32:54 root Database connection established successfully.
+INFO 2024-12-02 21:32:54 sqlalchemy.engine.Engine ROLLBACK
+DEBUG 2024-12-02 21:36:31 app.core.logging This is a debug message
+ERROR 2024-12-02 21:36:31 app.core.logging This is an error message
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine [generated in 0.00181s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine [generated in 0.00178s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:36:32 sqlalchemy.engine.Engine COMMIT
+DEBUG 2024-12-02 21:37:11 app.core.logging This is a debug message
+ERROR 2024-12-02 21:37:11 app.core.logging This is an error message
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine [generated in 0.00195s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine [generated in 0.00220s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:37:12 sqlalchemy.engine.Engine COMMIT
+DEBUG 2024-12-02 21:37:41 app.core.logging This is a debug message
+ERROR 2024-12-02 21:37:41 app.core.logging This is an error message
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine [generated in 0.00454s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine [generated in 0.00187s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:37:41 sqlalchemy.engine.Engine COMMIT
+DEBUG 2024-12-02 21:37:57 app.core.logging This is a debug message
+ERROR 2024-12-02 21:37:57 app.core.logging This is an error message
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine [generated in 0.00197s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine [generated in 0.00100s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:37:57 sqlalchemy.engine.Engine COMMIT
+DEBUG 2024-12-02 21:38:08 app.core.logging This is a debug message
+ERROR 2024-12-02 21:38:08 app.core.logging This is an error message
+DEBUG 2024-12-02 21:38:34 app.core.logging This is a debug message
+ERROR 2024-12-02 21:38:34 app.core.logging This is an error message
+INFO 2024-12-02 21:38:34 root Application startup application...
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine [generated in 0.00219s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine [generated in 0.00152s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:38:34 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:38:43 root Shutting down application...
+DEBUG 2024-12-02 21:38:47 app.core.logging This is a debug message
+ERROR 2024-12-02 21:38:47 app.core.logging This is an error message
+INFO 2024-12-02 21:38:47 root Application startup application...
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine [generated in 0.00168s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine [generated in 0.00145s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:38:47 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:39:01 root Shutting down application...
+DEBUG 2024-12-02 21:39:07 app.core.logging This is a debug message
+ERROR 2024-12-02 21:39:07 app.core.logging This is an error message
+DEBUG 2024-12-02 21:39:13 app.core.logging This is a debug message
+ERROR 2024-12-02 21:39:13 app.core.logging This is an error message
+DEBUG 2024-12-02 21:39:19 app.core.logging This is a debug message
+ERROR 2024-12-02 21:39:19 app.core.logging This is an error message
+DEBUG 2024-12-02 21:39:42 app.core.logging This is a debug message
+ERROR 2024-12-02 21:39:42 app.core.logging This is an error message
+INFO 2024-12-02 21:39:42 root Application startup application...
+INFO 2024-12-02 21:39:42 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine [generated in 0.00355s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine [generated in 0.00385s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:39:43 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:40:24 root Shutting down application...
+DEBUG 2024-12-02 21:40:30 app.core.logging This is a debug message
+ERROR 2024-12-02 21:40:30 app.core.logging This is an error message
+INFO 2024-12-02 21:40:30 root Application startup application...
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine [generated in 0.00179s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine [generated in 0.00149s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:40:30 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:41:30 root Shutting down application...
+DEBUG 2024-12-02 21:41:35 app.core.logging This is a debug message
+ERROR 2024-12-02 21:41:35 app.core.logging This is an error message
+INFO 2024-12-02 21:41:35 root Application startup application...
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine [generated in 0.00137s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine [generated in 0.00116s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:41:35 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:46:31 root Shutting down application...
+DEBUG 2024-12-02 21:46:36 app.core.logging This is a debug message
+ERROR 2024-12-02 21:46:36 app.core.logging This is an error message
+INFO 2024-12-02 21:46:36 root Application startup application...
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine [generated in 0.00169s] ('user', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine [generated in 0.00138s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:46:36 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:47:54 root Shutting down application...
+DEBUG 2024-12-02 21:47:59 app.core.logging This is a debug message
+ERROR 2024-12-02 21:47:59 app.core.logging This is an error message
+INFO 2024-12-02 21:47:59 root Application startup application...
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [generated in 0.00210s] ('userdetails', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [generated in 0.00191s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine 
+CREATE TABLE userdetails (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	email VARCHAR NOT NULL, 
+	mobile VARCHAR NOT NULL, 
+	gender genderenum NOT NULL, 
+	is_active BOOLEAN NOT NULL, 
+	created_on TIMESTAMP WITHOUT TIME ZONE NOT NULL, 
+	updated_on TIMESTAMP WITHOUT TIME ZONE, 
+	PRIMARY KEY (id)
+)
+
+
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine [no key 0.00424s] ()
+INFO 2024-12-02 21:48:00 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:51:24 root Shutting down application...
+DEBUG 2024-12-02 21:51:32 app.core.logging This is a debug message
+ERROR 2024-12-02 21:51:32 app.core.logging This is an error message
+INFO 2024-12-02 21:51:32 root Application startup application...
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine [generated in 0.00228s] ('userdetails', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine [generated in 0.00228s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:51:33 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:51:33 root Shutting down application...
+DEBUG 2024-12-02 21:51:39 app.core.logging This is a debug message
+ERROR 2024-12-02 21:51:39 app.core.logging This is an error message
+INFO 2024-12-02 21:51:39 root Application startup application...
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine [generated in 0.00193s] ('userdetails', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine [generated in 0.00254s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:51:39 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:52:12 root Shutting down application...
+DEBUG 2024-12-02 21:52:16 app.core.logging This is a debug message
+ERROR 2024-12-02 21:52:16 app.core.logging This is an error message
+INFO 2024-12-02 21:52:17 root Application startup application...
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine [generated in 0.00187s] ('userdetails', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine [generated in 0.00124s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:52:17 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:55:30 root Shutting down application...
+DEBUG 2024-12-02 21:56:16 app.core.logging This is a debug message
+ERROR 2024-12-02 21:56:16 app.core.logging This is an error message
+INFO 2024-12-02 21:56:16 root Application startup application...
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine [generated in 0.00337s] ('userdetails', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine [generated in 0.00275s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 21:56:16 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 21:58:22 root Shutting down application...
+DEBUG 2024-12-02 22:03:05 app.core.logging This is a debug message
+ERROR 2024-12-02 22:03:05 app.core.logging This is an error message
+DEBUG 2024-12-02 22:03:08 app.core.logging This is a debug message
+ERROR 2024-12-02 22:03:08 app.core.logging This is an error message
+DEBUG 2024-12-02 22:03:35 app.core.logging This is a debug message
+ERROR 2024-12-02 22:03:35 app.core.logging This is an error message
+DEBUG 2024-12-02 22:04:13 app.core.logging This is a debug message
+ERROR 2024-12-02 22:04:13 app.core.logging This is an error message
+DEBUG 2024-12-02 22:05:03 app.core.logging This is a debug message
+ERROR 2024-12-02 22:05:03 app.core.logging This is an error message
+DEBUG 2024-12-02 22:11:24 app.core.logging This is a debug message
+ERROR 2024-12-02 22:11:24 app.core.logging This is an error message
+DEBUG 2024-12-02 22:11:44 app.core.logging This is a debug message
+ERROR 2024-12-02 22:11:44 app.core.logging This is an error message
+DEBUG 2024-12-02 22:12:28 app.core.logging This is a debug message
+ERROR 2024-12-02 22:12:28 app.core.logging This is an error message
+INFO 2024-12-02 22:12:28 root Application startup application...
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:12:28 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:13:26 root Shutting down application...
+DEBUG 2024-12-02 22:13:54 app.core.logging This is a debug message
+ERROR 2024-12-02 22:13:54 app.core.logging This is an error message
+INFO 2024-12-02 22:13:54 root Application startup application...
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:13:54 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:37:21 root Shutting down application...
+DEBUG 2024-12-02 22:37:36 app.core.logging This is a debug message
+ERROR 2024-12-02 22:37:36 app.core.logging This is an error message
+INFO 2024-12-02 22:37:38 root Application startup application...
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:37:38 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:41:35 root Shutting down application...
+DEBUG 2024-12-02 22:41:40 app.core.logging This is a debug message
+ERROR 2024-12-02 22:41:40 app.core.logging This is an error message
+INFO 2024-12-02 22:41:40 root Application startup application...
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:41:40 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:41:41 root Shutting down application...
+DEBUG 2024-12-02 22:41:46 app.core.logging This is a debug message
+ERROR 2024-12-02 22:41:46 app.core.logging This is an error message
+INFO 2024-12-02 22:41:47 root Application startup application...
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:41:47 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:42:00 root Shutting down application...
+DEBUG 2024-12-02 22:42:04 app.core.logging This is a debug message
+ERROR 2024-12-02 22:42:04 app.core.logging This is an error message
+INFO 2024-12-02 22:42:04 root Application startup application...
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:42:04 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:42:04 root Shutting down application...
+DEBUG 2024-12-02 22:42:09 app.core.logging This is a debug message
+ERROR 2024-12-02 22:42:09 app.core.logging This is an error message
+INFO 2024-12-02 22:42:09 root Application startup application...
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:42:09 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:54:00 root Shutting down application...
+DEBUG 2024-12-02 22:54:03 app.core.logging This is a debug message
+ERROR 2024-12-02 22:54:03 app.core.logging This is an error message
+INFO 2024-12-02 22:54:04 root Application startup application...
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:54:04 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:54:04 root Shutting down application...
+DEBUG 2024-12-02 22:54:07 app.core.logging This is a debug message
+ERROR 2024-12-02 22:54:07 app.core.logging This is an error message
+INFO 2024-12-02 22:54:07 root Application startup application...
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:54:07 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:56:47 root Shutting down application...
+DEBUG 2024-12-02 22:56:51 app.core.logging This is a debug message
+ERROR 2024-12-02 22:56:51 app.core.logging This is an error message
+INFO 2024-12-02 22:56:52 root Application startup application...
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:56:52 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:56:58 root Shutting down application...
+DEBUG 2024-12-02 22:57:02 app.core.logging This is a debug message
+ERROR 2024-12-02 22:57:02 app.core.logging This is an error message
+INFO 2024-12-02 22:57:02 root Application startup application...
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:57:02 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 22:59:46 root Shutting down application...
+DEBUG 2024-12-02 22:59:49 app.core.logging This is a debug message
+ERROR 2024-12-02 22:59:49 app.core.logging This is an error message
+INFO 2024-12-02 22:59:49 root Application startup application...
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [generated in 0.00109s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [generated in 0.00095s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine 
+CREATE TABLE user_details (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	email VARCHAR NOT NULL, 
+	mobile VARCHAR NOT NULL, 
+	gender genderenum NOT NULL, 
+	is_active BOOLEAN NOT NULL, 
+	created_on TIMESTAMP WITHOUT TIME ZONE NOT NULL, 
+	updated_on TIMESTAMP WITHOUT TIME ZONE, 
+	PRIMARY KEY (id)
+)
+
+
+INFO 2024-12-02 22:59:49 sqlalchemy.engine.Engine [no key 0.00195s] ()
+INFO 2024-12-02 22:59:50 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:00:23 root Shutting down application...
+DEBUG 2024-12-02 23:00:25 app.core.logging This is a debug message
+ERROR 2024-12-02 23:00:25 app.core.logging This is an error message
+INFO 2024-12-02 23:00:25 root Application startup application...
+INFO 2024-12-02 23:00:25 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine [generated in 0.00119s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine [generated in 0.00086s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:00:26 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:01:09 root Shutting down application...
+DEBUG 2024-12-02 23:01:11 app.core.logging This is a debug message
+ERROR 2024-12-02 23:01:11 app.core.logging This is an error message
+INFO 2024-12-02 23:01:11 root Application startup application...
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine [generated in 0.00112s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine [generated in 0.00076s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:01:11 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:01:13 root Shutting down application...
+DEBUG 2024-12-02 23:01:16 app.core.logging This is a debug message
+ERROR 2024-12-02 23:01:16 app.core.logging This is an error message
+INFO 2024-12-02 23:01:16 root Application startup application...
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine [generated in 0.00111s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine [generated in 0.00108s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:01:17 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:02:14 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:02:14 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::BOOLEAN, $6::TIMESTAMP WITHOUT TIME ZONE, $7::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:02:14 sqlalchemy.engine.Engine [generated in 0.00085s] ('gopal', 'gopalsrinivas.b@gmail.com', '9542434316', 'male', False, datetime.datetime(2024, 12, 2, 17, 32, 14, 765363), None)
+INFO 2024-12-02 23:02:15 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:02:15 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:02:15 sqlalchemy.engine.Engine SELECT user_details.id, user_details.name, user_details.email, user_details.mobile, user_details.gender, user_details.is_active, user_details.created_on, user_details.updated_on 
+FROM user_details 
+WHERE user_details.id = $1::INTEGER
+INFO 2024-12-02 23:02:15 sqlalchemy.engine.Engine [generated in 0.00103s] (1,)
+INFO 2024-12-02 23:02:45 root Shutting down application...
+ERROR 2024-12-02 23:02:45 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001871EF668A0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:02:45 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001871EF668A0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:02:48 app.core.logging This is a debug message
+ERROR 2024-12-02 23:02:48 app.core.logging This is an error message
+INFO 2024-12-02 23:02:49 root Application startup application...
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine [generated in 0.00108s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine [generated in 0.00107s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:02:49 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:03:01 root Shutting down application...
+DEBUG 2024-12-02 23:03:07 app.core.logging This is a debug message
+ERROR 2024-12-02 23:03:07 app.core.logging This is an error message
+INFO 2024-12-02 23:03:08 root Application startup application...
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine [generated in 0.00232s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine [generated in 0.00225s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:03:09 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:03:09 root Shutting down application...
+DEBUG 2024-12-02 23:03:16 app.core.logging This is a debug message
+ERROR 2024-12-02 23:03:16 app.core.logging This is an error message
+INFO 2024-12-02 23:03:16 root Application startup application...
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine [generated in 0.00194s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine [generated in 0.00160s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:03:16 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:04:22 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:04:22 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::BOOLEAN, $6::TIMESTAMP WITHOUT TIME ZONE, $7::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:04:22 sqlalchemy.engine.Engine [generated in 0.00094s] ('gopal', 'gopalsrinivas.b@gmail.com', '9542434316', 'male', False, datetime.datetime(2024, 12, 2, 17, 34, 22, 986058), None)
+INFO 2024-12-02 23:04:23 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:04:23 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:04:23 sqlalchemy.engine.Engine SELECT user_details.id, user_details.name, user_details.email, user_details.mobile, user_details.gender, user_details.is_active, user_details.created_on, user_details.updated_on 
+FROM user_details 
+WHERE user_details.id = $1::INTEGER
+INFO 2024-12-02 23:04:23 sqlalchemy.engine.Engine [generated in 0.00112s] (2,)
+INFO 2024-12-02 23:04:54 root Shutting down application...
+ERROR 2024-12-02 23:04:54 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000023F40DB27B0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:04:54 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000023F40DB27B0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:04:59 app.core.logging This is a debug message
+ERROR 2024-12-02 23:04:59 app.core.logging This is an error message
+INFO 2024-12-02 23:04:59 root Application startup application...
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine [generated in 0.00183s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine [generated in 0.00153s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:04:59 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:05:08 root Shutting down application...
+DEBUG 2024-12-02 23:05:14 app.core.logging This is a debug message
+ERROR 2024-12-02 23:05:14 app.core.logging This is an error message
+INFO 2024-12-02 23:05:14 root Application startup application...
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine [generated in 0.00203s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine [generated in 0.00139s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:05:14 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:05:14 root Shutting down application...
+DEBUG 2024-12-02 23:05:18 app.core.logging This is a debug message
+ERROR 2024-12-02 23:05:18 app.core.logging This is an error message
+INFO 2024-12-02 23:05:19 root Application startup application...
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine [generated in 0.00163s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine [generated in 0.00099s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:05:19 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:05:53 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:05:53 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, address, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::VARCHAR, $6::BOOLEAN, $7::TIMESTAMP WITHOUT TIME ZONE, $8::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:05:53 sqlalchemy.engine.Engine [generated in 0.00106s] ('gopal', 'gopal@gmail.com', '9542434316', 'male', 'Hyd2', False, datetime.datetime(2024, 12, 2, 17, 35, 53, 574695), None)
+INFO 2024-12-02 23:05:53 sqlalchemy.engine.Engine ROLLBACK
+INFO 2024-12-02 23:12:58 root Shutting down application...
+ERROR 2024-12-02 23:12:59 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x00000243B7C868A0>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:12:59 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x00000243B7C868A0>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:13:04 app.core.logging This is a debug message
+ERROR 2024-12-02 23:13:04 app.core.logging This is an error message
+INFO 2024-12-02 23:13:05 root Application startup...
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine [generated in 0.00140s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine [generated in 0.00117s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:13:05 sqlalchemy.engine.Engine COMMIT
+DEBUG 2024-12-02 23:13:18 app.core.logging This is a debug message
+ERROR 2024-12-02 23:13:18 app.core.logging This is an error message
+INFO 2024-12-02 23:13:22 root Application startup...
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine [generated in 0.00205s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine [generated in 0.00191s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:13:22 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:13:23 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:13:23 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:14:26 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:14:26 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, address, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::VARCHAR, $6::BOOLEAN, $7::TIMESTAMP WITHOUT TIME ZONE, $8::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:14:26 sqlalchemy.engine.Engine [generated in 0.00140s] ('gopal', 'gopal@gmail.com', '9542434316', 'male', 'Hyd2', False, datetime.datetime(2024, 12, 2, 17, 44, 26, 187280), None)
+INFO 2024-12-02 23:14:26 sqlalchemy.engine.Engine ROLLBACK
+INFO 2024-12-02 23:31:08 root Shutting down application...
+ERROR 2024-12-02 23:31:09 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000027285ECAE40>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:31:09 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000027285ECAE40>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:31:13 app.core.logging This is a debug message
+ERROR 2024-12-02 23:31:13 app.core.logging This is an error message
+INFO 2024-12-02 23:31:13 root Application startup...
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine [generated in 0.00165s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine [generated in 0.04219s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:31:13 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:31:14 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:31:14 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:31:14 root Shutting down application...
+DEBUG 2024-12-02 23:31:18 app.core.logging This is a debug message
+ERROR 2024-12-02 23:31:18 app.core.logging This is an error message
+INFO 2024-12-02 23:31:19 root Application startup...
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine [generated in 0.00204s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine [generated in 0.00156s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:31:19 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:31:19 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:31:19 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:31:19 root Shutting down application...
+DEBUG 2024-12-02 23:31:24 app.core.logging This is a debug message
+ERROR 2024-12-02 23:31:24 app.core.logging This is an error message
+INFO 2024-12-02 23:31:25 root Application startup...
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine [generated in 0.00165s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine [generated in 0.00131s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:31:25 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:31:25 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:31:25 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:32:54 root Shutting down application...
+DEBUG 2024-12-02 23:33:48 app.core.logging This is a debug message
+ERROR 2024-12-02 23:33:48 app.core.logging This is an error message
+INFO 2024-12-02 23:33:48 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:33:48 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:33:49 alembic.ddl.postgresql Detected sequence named 'user_details_id_seq' as owned by integer column 'user_details(id)', assuming SERIAL and omitting
+INFO 2024-12-02 23:33:49 alembic.autogenerate.compare Detected removed table 'user_details'
+DEBUG 2024-12-02 23:33:54 app.core.logging This is a debug message
+ERROR 2024-12-02 23:33:54 app.core.logging This is an error message
+INFO 2024-12-02 23:33:54 root Application startup...
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine [generated in 0.00131s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine [generated in 0.00130s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:33:54 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:33:55 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:33:55 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:33:55 alembic.runtime.migration Running upgrade ccadf5c46b7a -> fee8537cf2e0, Add address column to user_details
+DEBUG 2024-12-02 23:33:55 alembic.runtime.migration update ccadf5c46b7a to fee8537cf2e0
+DEBUG 2024-12-02 23:35:22 app.core.logging This is a debug message
+ERROR 2024-12-02 23:35:22 app.core.logging This is an error message
+INFO 2024-12-02 23:35:22 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:35:22 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:36:28 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:36:28 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, address, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::VARCHAR, $6::BOOLEAN, $7::TIMESTAMP WITHOUT TIME ZONE, $8::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:36:28 sqlalchemy.engine.Engine [generated in 0.00254s] ('gopal', 'gopal@gmail.com', '9542434316', 'male', 'Hyd2', False, datetime.datetime(2024, 12, 2, 18, 6, 28, 866850), None)
+INFO 2024-12-02 23:36:28 sqlalchemy.engine.Engine ROLLBACK
+DEBUG 2024-12-02 23:41:20 app.core.logging This is a debug message
+ERROR 2024-12-02 23:41:20 app.core.logging This is an error message
+INFO 2024-12-02 23:41:20 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:41:20 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:41:21 root Shutting down application...
+ERROR 2024-12-02 23:41:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001C1EE48AE40>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:41:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x000001C1EE48AE40>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:41:25 app.core.logging This is a debug message
+ERROR 2024-12-02 23:41:25 app.core.logging This is an error message
+INFO 2024-12-02 23:41:26 root Application startup...
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [generated in 0.02792s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [generated in 0.00170s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine 
+CREATE TABLE user_details (
+	id SERIAL NOT NULL, 
+	name VARCHAR NOT NULL, 
+	email VARCHAR NOT NULL, 
+	mobile VARCHAR NOT NULL, 
+	gender genderenum NOT NULL, 
+	address VARCHAR NOT NULL, 
+	is_active BOOLEAN NOT NULL, 
+	created_on TIMESTAMP WITHOUT TIME ZONE NOT NULL, 
+	updated_on TIMESTAMP WITHOUT TIME ZONE, 
+	PRIMARY KEY (id)
+)
+
+
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine [no key 0.00307s] ()
+INFO 2024-12-02 23:41:26 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:41:27 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:41:27 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:41:27 alembic.runtime.migration Running upgrade fee8537cf2e0 -> 9bd0e38e2f77, Update schema
+DEBUG 2024-12-02 23:41:27 alembic.runtime.migration update fee8537cf2e0 to 9bd0e38e2f77
+DEBUG 2024-12-02 23:41:32 app.core.logging This is a debug message
+ERROR 2024-12-02 23:41:32 app.core.logging This is an error message
+INFO 2024-12-02 23:41:32 alembic.runtime.migration Context impl PostgresqlImpl.
+INFO 2024-12-02 23:41:32 alembic.runtime.migration Will assume transactional DDL.
+INFO 2024-12-02 23:42:39 root Shutting down application...
+DEBUG 2024-12-02 23:42:44 app.core.logging This is a debug message
+ERROR 2024-12-02 23:42:44 app.core.logging This is an error message
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine [generated in 0.00143s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine [generated in 0.00138s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:42:45 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:42:46 root Shutting down application...
+DEBUG 2024-12-02 23:42:53 app.core.logging This is a debug message
+ERROR 2024-12-02 23:42:53 app.core.logging This is an error message
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine [generated in 0.00171s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine [generated in 0.00124s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:42:55 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:42:55 root Shutting down application...
+DEBUG 2024-12-02 23:43:00 app.core.logging This is a debug message
+ERROR 2024-12-02 23:43:00 app.core.logging This is an error message
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine [generated in 0.00189s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine [generated in 0.00179s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:43:01 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:46:56 root Shutting down application...
+DEBUG 2024-12-02 23:47:01 app.core.logging This is a debug message
+ERROR 2024-12-02 23:47:01 app.core.logging This is an error message
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine [generated in 0.00160s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine [generated in 0.00168s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:47:02 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine INSERT INTO user_details (name, email, mobile, gender, address, is_active, created_on, updated_on) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::genderenum, $5::VARCHAR, $6::BOOLEAN, $7::TIMESTAMP WITHOUT TIME ZONE, $8::TIMESTAMP WITHOUT TIME ZONE) RETURNING user_details.id
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine [generated in 0.00135s] ('gopal', 'gopalsrinivas.b@gmail.com', '9542434316', 'male', 'Hyderabad', False, datetime.datetime(2024, 12, 2, 18, 18, 56, 335643), None)
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine SELECT user_details.id, user_details.name, user_details.email, user_details.mobile, user_details.gender, user_details.address, user_details.is_active, user_details.created_on, user_details.updated_on 
+FROM user_details 
+WHERE user_details.id = $1::INTEGER
+INFO 2024-12-02 23:48:56 sqlalchemy.engine.Engine [generated in 0.00154s] (1,)
+INFO 2024-12-02 23:50:21 root Shutting down application...
+ERROR 2024-12-02 23:50:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool Exception terminating connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000020FA090ED50>>
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\pool\base.py", line 374, in _close_connection
+    self._dialect.do_terminate(connection)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 1121, in do_terminate
+    dbapi_connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 914, in terminate
+    self._connection.terminate()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1478, in terminate
+    self._abort()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python312\site-packages\asyncpg\connection.py", line 1505, in _abort
+    self._protocol.abort()
+  File "asyncpg\protocol\protocol.pyx", line 607, in asyncpg.protocol.protocol.BaseProtocol.abort
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 836, in abort
+    self._force_close(None)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\selector_events.py", line 906, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 795, in call_soon
+    self._check_closed()
+  File "D:\installed_software\anaconda3\envs\myenv3\Lib\asyncio\base_events.py", line 541, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+ERROR 2024-12-02 23:50:21 sqlalchemy.pool.impl.AsyncAdaptedQueuePool The garbage collector is trying to clean up non-checked-in connection <AdaptedConnection <asyncpg.connection.Connection object at 0x0000020FA090ED50>>, which will be terminated.  Please ensure that SQLAlchemy pooled connections are returned to the pool explicitly, either by calling ``close()`` or by using appropriate context managers to manage their lifecycle.
+DEBUG 2024-12-02 23:50:30 app.core.logging This is a debug message
+ERROR 2024-12-02 23:50:30 app.core.logging This is an error message
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine [generated in 0.00177s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine [generated in 0.00499s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:50:31 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:50:31 root Shutting down application...
+DEBUG 2024-12-02 23:50:36 app.core.logging This is a debug message
+ERROR 2024-12-02 23:50:36 app.core.logging This is an error message
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine [generated in 0.00146s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine [generated in 0.00166s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:50:36 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:50:39 root Shutting down application...
+DEBUG 2024-12-02 23:50:44 app.core.logging This is a debug message
+ERROR 2024-12-02 23:50:44 app.core.logging This is an error message
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine select pg_catalog.version()
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine select current_schema()
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine show standard_conforming_strings
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine [raw sql] ()
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine BEGIN (implicit)
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine [generated in 0.00240s] ('user_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine [generated in 0.00148s] ('genderenum', 'pg_catalog')
+INFO 2024-12-02 23:50:45 sqlalchemy.engine.Engine COMMIT
+INFO 2024-12-02 23:50:45 root Shutting down application...
